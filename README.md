@@ -7,7 +7,7 @@
 
 
 ```css
-@import url("https://prayag17.github.io/JellyFlix/default.css");
+@import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
 ```
 
 Use the following code to displa logo also:
