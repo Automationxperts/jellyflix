@@ -13,8 +13,8 @@
 Use the following code to displa logo also:
 
 ```css
-@import url("https://prayag17.github.io/JellyFlix/default.css");
-@import url("https://prayag17.github.io/JellyFlix/Logo.css");
+@import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
+@import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/Logo.css");
 ```
 <div class="listCont">
   <h3 align="center"> Features </h3>
