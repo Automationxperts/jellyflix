@@ -16,6 +16,21 @@ Use the following code to displa logo also:
 @import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
 @import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/Logo.css");
 ```
+
+```css
+@import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
+@import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/Logo.css");
+@import url("https://prayag17.github.io/JellyFlix/default.css");
+@import url("https://prayag17.github.io/JellyFlix/Logo.css");
+.imgLogoIcon {
+content: url(https://raw.githubusercontent.com/Automationxperts/jellyflix/3697f0ce2584872c00c3c7fb1cde4e51990a45de/img/logo.png) !important; }
+/* Main Drawer Mobile Logo*/
+.adminDrawerLogo img {
+content: url(https://raw.githubusercontent.com/Automationxperts/jellyflix/3697f0ce2584872c00c3c7fb1cde4e51990a45de/img/logo.png) !important; }
+/* Home Page Logo*/
+.pageTitleWithLogo {
+background-image: url(https://raw.githubusercontent.com/Automationxperts/jellyflix/3697f0ce2584872c00c3c7fb1cde4e51990a45de/img/logo.png) !important; }
+```
 <div class="listCont">
   <h3 align="center"> Features </h3>
   <div class="list" style="display: block;">
