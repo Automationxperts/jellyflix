@@ -3,14 +3,14 @@
 <h3>I am using netflix Sans in this CSS ovride and if I am violating any copyright law then please don't ban it, instead create an issue of it</h3>
 <h4>Use 67% zoom for better experience on PC</h4>  
 </div>
-<h2> To use it, got to Setting ==> Dashboard ==> General and scroll down to custom css and past the following line</h2>
+<h2> To use it, got to Setting ==> Dashboard ==> General and scroll down to custom css and paste the following lines</h2>
 
 
 ```css
 @import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
 ```
 
-Use the following code to displa logo also:
+Use the following code to display logo also:
 
 ```css
 @import url("https://raw.githubusercontent.com/Automationxperts/jellyflix/main/default.css");
